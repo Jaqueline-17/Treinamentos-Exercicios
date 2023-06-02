@@ -16,7 +16,7 @@ import lombok.Data;
 
 @Entity
 @Data
-@Table(name = "TB_email")
+@Table(name = "tb_email")
 public class EmailModel implements Serializable {
 
     private static final long serialVersionUID = 1L;
